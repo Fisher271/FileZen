@@ -1,0 +1,24 @@
+{
+    "uk": {
+        "title": "FileZen",
+        "choose_folder": "Виберіть папку для сортування:",
+        "sort_by": "Оберіть спосіб сортування:",
+        "type": "За типами файлів",
+        "date": "За датою",
+        "run": "Запустити",
+        "undo": "Скасувати",
+        "browse": "Огляд",
+        "error": "Помилка"
+    },
+    "en": {
+        "title": "FileZen",
+        "choose_folder": "Choose folder for sorting:",
+        "sort_by": "Choose sorting method:",
+        "type": "By file types",
+        "date": "By date",
+        "run": "Run",
+        "browse": "Browse",
+        "undo": "Undo",
+        "error": "Error"
+    }
+}
