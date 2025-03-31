@@ -29,6 +29,15 @@
 7. **Результати**:
    - Перевірте організовані файли у вибраній папці.
 
+#### **Автор іконки**
+
+Іконка створена [Smashicons](https://www.flaticon.com/ru/free-icon/bonsai_1471402?term=%D0%B1%D0%BE%D0%BD%D1%81%D0%B0%D0%B9&page=1&position=7&origin=tag&related_id=1471402).
+
+##### **Автор фону**
+
+Фон створений [Q Garden Cyprus](https://pin.it/452ryNsSA)
+
+
 ---
 
 ## **Program Description (English)**
@@ -82,4 +91,12 @@ All application errors are logged in the `app.log` file for easier debugging and
 ## **Quick Start**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/FileZen.git
+   git clone https://github.com/Fisher271/FileZen.git
+
+
+#### **Icon Author**
+The icon was created by [Smashicons](https://www.flaticon.com/free-icon/bonsai_1471402?term=bonsai&page=1&position=7&origin=tag&related_id=1471402).
+
+##### **Background Author**
+
+Background created by [Q Garden Cyprus](https://pin.it/452ryNsSA)
